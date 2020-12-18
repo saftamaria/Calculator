@@ -1,0 +1,80 @@
+
+D
+java:S1604’"(Make this anonymous inner class a lambda(õëø¹şÿÿÿÿ
+D
+java:S1604õ"(Make this anonymous inner class a lambda(úàáùÿÿÿÿ
+f	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¾Ú“
+?
+java:S1604"(Make this anonymous inner class a lambda(¾™áŠ
+D
+java:S1604½"(Make this anonymous inner class a lambda(Ğ‚›Ûşÿÿÿÿ
+D
+java:S1604¾"(Make this anonymous inner class a lambda(Ì­›àÿÿÿÿÿ
+_
+java:S3252("IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´
+?	java:S108´")Either remove or fill this block of code.(°òÒ¬
+à
+java:S1598"ÄThis file "Calculator.java" should be located in "Project" directory, not in "C:\Users\ANTO\Desktop\Java-JavaFx-Swing-Projects-Desktop-Application-GUI-Software-master\Calculator -GUI-Using Swing".(ì­†Šûÿÿÿÿ
+?	java:S108¤")Either remove or fill this block of code.(°òÒ¬
+l
+java:S1104"QMake first a static final constant or non-public and provide accessors if needed.(ü®á¢ÿÿÿÿÿ
+?
+java:S1659"$Declare "result" on a separate line.(ü®á¢ÿÿÿÿÿ
+>	java:S108j")Either remove or fill this block of code.(°òÒ¬
+C
+java:S1604d"(Make this anonymous inner class a lambda(”è‚öşÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(½øö—ûÿÿÿÿ
+?
+java:S1604"(Make this anonymous inner class a lambda(µÃÄõ
+D
+java:S1604±"(Make this anonymous inner class a lambda(ƒøÑıÿÿÿÿ
+?	java:S108Ä")Either remove or fill this block of code.(°òÒ¬
+>
+java:S1604y"(Make this anonymous inner class a lambda(ş¥µ
+?
+java:S1604É"(Make this anonymous inner class a lambda(Ö‘€ì
+^
+java:S1192."HDefine a constant instead of duplicating this literal "Tahoma" 22 times.(Ô—¤¶
+B
+java:S1659"'Declare "operation" on a separate line.(†ìé¸ûÿÿÿÿ
+C
+java:S1604Z"(Make this anonymous inner class a lambda(®àìÈûÿÿÿÿ
+D
+java:S1604˜"(Make this anonymous inner class a lambda(ÇÀ  ıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì­†Šûÿÿÿÿ
+?	java:S108ñ")Either remove or fill this block of code.(Ê¨Ñ±
+k
+java:S1104"UMake textField a static final constant or non-public and provide accessors if needed.(İÍâ
+?
+java:S1604Õ"(Make this anonymous inner class a lambda(«à
+?	java:S108”")Either remove or fill this block of code.(°òÒ¬
+>	java:S108N")Either remove or fill this block of code.(°òÒ¬
+?
+java:S1604®"(Make this anonymous inner class a lambda(—ÆÀİ
+>
+java:S1604B"(Make this anonymous inner class a lambda(Õ¸Ë­
+m
+java:S1104"RMake result a static final constant or non-public and provide accessors if needed.(ü®á¢ÿÿÿÿÿ
+C
+java:S1604"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ
+m
+java:S3776$"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ˆå¶šûÿÿÿÿ
+?	java:S108Û")Either remove or fill this block of code.(°òÒ¬
+?
+java:S1604é"(Make this anonymous inner class a lambda(ğÁËî
+D
+java:S1604¡"(Make this anonymous inner class a lambda(ØåÙ¹øÿÿÿÿ
+D
+java:S1604ü"(Make this anonymous inner class a lambda(ÑñïÂÿÿÿÿÿ
+D
+java:S1604Ğ"(Make this anonymous inner class a lambda(—´æúÿÿÿÿ
+g
+java:S1104"QMake frame a static final constant or non-public and provide accessors if needed.(Ü˜üí
+=	java:S131Ô""Add a default case to this switch.(Üï•ıÿÿÿÿ
+D
+java:S1604†"(Make this anonymous inner class a lambda(ãøØøşÿÿÿÿ
+m
+java:S1104"RMake second a static final constant or non-public and provide accessors if needed.(ü®á¢ÿÿÿÿÿ
+?
+java:S1659"$Declare "second" on a separate line.(ü®á¢ÿÿÿÿÿ
